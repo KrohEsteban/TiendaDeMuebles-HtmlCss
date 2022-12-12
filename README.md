@@ -2,4 +2,4 @@
   Tienda de Muebles
 </h1>
 
-Practica para una tienda de muebles creada como practica en el curso de la UTN, no seguí con el curso porque yo iba mucho mas avanzado que el curso por lo tanto seguí mis estudios como autodidacta. 
+Practica de una tienda de muebles creada en el curso de la UTN de FrontEnd, no seguí con el curso ya que iba mucho mas avanzado por lo tanto seguí mis estudios como autodidacta. 
